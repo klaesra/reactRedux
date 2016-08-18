@@ -2,11 +2,11 @@
   "name": "react-redux",
   "version": "1.0.0",
   "description": "Me trying to setup react with redux on windows 10 bash",
-  "main": "index.js",
+  "main": "src/helloworld.js",
 
-	"scripts": {
-		"build": "node_modules/webpack/bin/webpack.js src/helloworld.js bundle.js --module-bind 'js=babel-loader'"
-	},
+  "scripts": {
+    "build": "node_modules/webpack/bin/webpack.js src/helloworld.js bundle.js --module-bind js=babel-loader"
+  },
 
   "dependencies": {
     "babel-core": "^6.13.2",
