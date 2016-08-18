@@ -1,0 +1,35 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "Me trying to setup react with redux on windows 10 bash",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-dashboard": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaesra/reactRedux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "windows",
+    "10"
+  ],
+  "author": "Klaes Rasmussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaesra/reactRedux/issues"
+  },
+  "homepage": "https://github.com/klaesra/reactRedux#readme"
+}
